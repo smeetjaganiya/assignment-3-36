@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    for(int i=1;i<=5;i++)
+    {
+        printf("Smeet Patel\n");
+    }
+
+    return 0;
+}
